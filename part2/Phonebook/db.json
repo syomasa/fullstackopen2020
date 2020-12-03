@@ -1,0 +1,43 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1,
+      "important": true
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": 4
+    },
+    {
+      "name": "Jukka Jarkkola",
+      "number": "054145389",
+      "important": false,
+      "id": 6
+    },
+    {
+      "name": "Bera Dukkei",
+      "number": "0982359028",
+      "important": false,
+      "id": 7
+    },
+    {
+      "name": "Jukka Pekka",
+      "number": "04932787534",
+      "important": false,
+      "id": 8
+    }
+  ]
+}
